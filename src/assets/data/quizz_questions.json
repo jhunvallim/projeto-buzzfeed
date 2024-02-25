@@ -1,11 +1,11 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você seria um Herói ou um Vilão ?",
   "questions":[
     {
       "id":1,
       "question": "Qual super poder você escolheria ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 1, "name":"Raios-Laser", "alias":"A"},
         {"id": 2, "name":"Voar", "alias":"B"},
         {"id": 3, "name":"Explodir coisas", "alias":"A"},
         {"id": 4, "name":"Curar feridas", "alias":"B"},
@@ -43,13 +43,13 @@
       "id":5,
       "question": "Qual o seu apelido de super ser ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"O Terrível", "alias":"A"},
+        {"id": 2, "name":"Amigo da Vizinhança", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria um Super-Vilão!",
+    "B": "Você muito provavelmente seria um Super-Herói!"
   }
 }

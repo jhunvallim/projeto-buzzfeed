@@ -13,7 +13,9 @@
 }
 
 .quizz_logo > h3 {
-  margin-top: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 30px;
 }
 
 .quizz_questions {
@@ -36,9 +38,11 @@
   justify-content: center;
   margin: auto;
   margin-bottom: 20px;
+  gap: 5px;
 }
 
 .btn-option {
+  margin-bottom: 20px;
   background-color: transparent;
   border-radius: 8px;
   border: 1px solid #18AB29;
@@ -72,4 +76,5 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-size: 2rem;
 }
